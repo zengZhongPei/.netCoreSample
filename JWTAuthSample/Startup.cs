@@ -30,7 +30,7 @@ namespace JWTAuthSample
             Configuration.Bind("jwtSeetings",jwtseetings);
             services.AddAuthentication(options =>
             {
-                //认证方式的配置.这里配置的是 jwt验证方式
+                //认证方式的配置.这里配置的是 jwt验证方式 
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
                 options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             }).AddJwtBearer(options =>
