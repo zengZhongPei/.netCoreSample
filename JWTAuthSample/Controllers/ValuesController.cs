@@ -20,7 +20,7 @@ namespace JWTAuthSample.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        [Authorize(Policy ="admin")]//引入权限标记
+        [Authorize(Policy ="admin")]//引入权限标记 必须是Claim中有 admin的才能访问
         public ActionResult<string> Get(int id)
         {
             return "value";
