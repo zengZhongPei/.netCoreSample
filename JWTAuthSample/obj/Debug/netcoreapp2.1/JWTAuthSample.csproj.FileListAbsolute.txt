@@ -1,0 +1,15 @@
+D:\工作\学习\CommandLineSample\JWTAuthSample\bin\Debug\netcoreapp2.1\JWTAuthSample.deps.json
+D:\工作\学习\CommandLineSample\JWTAuthSample\bin\Debug\netcoreapp2.1\JWTAuthSample.runtimeconfig.json
+D:\工作\学习\CommandLineSample\JWTAuthSample\bin\Debug\netcoreapp2.1\JWTAuthSample.runtimeconfig.dev.json
+D:\工作\学习\CommandLineSample\JWTAuthSample\bin\Debug\netcoreapp2.1\JWTAuthSample.dll
+D:\工作\学习\CommandLineSample\JWTAuthSample\bin\Debug\netcoreapp2.1\JWTAuthSample.pdb
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.csproj.CoreCompileInputs.cache
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.RazorAssemblyInfo.cache
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.RazorAssemblyInfo.cs
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.AssemblyInfoInputs.cache
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.AssemblyInfo.cs
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.RazorTargetAssemblyInfo.cache
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.dll
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.pdb
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\工作\学习\CommandLineSample\JWTAuthSample\obj\Debug\netcoreapp2.1\JWTAuthSample.csprojAssemblyReference.cache
