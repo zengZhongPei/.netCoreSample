@@ -1,0 +1,15 @@
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csproj.CoreCompileInputs.cache
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfoInputs.cache
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.AssemblyInfo.cs
+D:\工作\学习\CommandLineSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.deps.json
+D:\工作\学习\CommandLineSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.json
+D:\工作\学习\CommandLineSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.runtimeconfig.dev.json
+D:\工作\学习\CommandLineSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.dll
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.csprojAssemblyReference.cache
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cache
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorAssemblyInfo.cs
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.RazorTargetAssemblyInfo.cache
+D:\工作\学习\CommandLineSample\IdentityServerCenter\bin\Debug\netcoreapp2.1\IdentityServerCenter.pdb
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.dll
+D:\工作\学习\CommandLineSample\IdentityServerCenter\obj\Debug\netcoreapp2.1\IdentityServerCenter.pdb
